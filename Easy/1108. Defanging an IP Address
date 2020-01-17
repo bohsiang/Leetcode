@@ -7,7 +7,7 @@ A defanged IP address replaces every period "." with "[.]".
 基本上用python應該可以秒解
 
 
-``` python
+```python
 class Solution:
     def defangIPaddr(self, address: str) -> str:
         return address.replace(".","[.]")
