@@ -1,3 +1,3 @@
 # leetcode
 
-### practice leetcode topic
+## Practice Leetcode Topic
